@@ -1,4 +1,5 @@
 /* Prevent content touching screen edges */
+
 body {
     margin: 0;
     padding: 0;

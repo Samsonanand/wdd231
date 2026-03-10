@@ -8,7 +8,6 @@ const lastModified = document.querySelector("#lastModified");
 lastModified.textContent = `Last Modified: ${document.lastModified}`;
 
 
-
 // Hamburger menu toggle
 const hamburger = document.querySelector(".hamburger");
 const navigation = document.querySelector(".navigation");
