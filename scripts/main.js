@@ -25,7 +25,6 @@ const cseBtn = document.querySelector("#cse");
 const wddBtn = document.querySelector("#wdd");
 
 
-
 // List Array
 const courses = [
     {
